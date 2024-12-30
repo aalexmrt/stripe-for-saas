@@ -1,6 +1,6 @@
 # Stripe for SaaS with Next.js & Supabase
 
-This project demonstrates fullstack metered billing subscriptions payments with Stipe, Next.js, and Supabase. 
+This project demonstrates fullstack metered billing subscriptions payments with Stripe, Next.js, and Supabase. 
 
 
 ## How to Run It
